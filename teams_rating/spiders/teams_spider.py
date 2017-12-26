@@ -6,7 +6,7 @@ import datetime, time
 import re
 import json
 
-# 限制更新时间 ，大于该秒数就不更新了
+# 限制更新时间 ，大于该秒数就不更新了 一般每两天执行一次
 limit_update_time = 250000
 
 # 单场比赛 item

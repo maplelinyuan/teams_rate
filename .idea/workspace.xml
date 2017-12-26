@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c90d3fa8-8ce2-4c86-bedc-925c3283e61e" name="Default" comment="" />
+    <list default="true" id="c90d3fa8-8ce2-4c86-bedc-925c3283e61e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/teams_rating/spiders/teams_spider.py" afterPath="$PROJECT_DIR$/teams_rating/spiders/teams_spider.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +18,8 @@
       <file leaf-file-name="teams_spider.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teams_rating/spiders/teams_spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1669">
-              <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
+            <state relative-caret-position="171">
+              <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
               <folding>
                 <element signature="e#36#49#0" expanded="true" />
               </folding>
@@ -42,37 +46,27 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1060">
-              <caret line="959" column="57" lean-forward="false" selection-start-line="949" selection-start-column="8" selection-end-line="959" selection-end-column="57" />
+            <state relative-caret-position="425">
+              <caret line="532" column="22" lean-forward="true" selection-start-line="532" selection-start-column="22" selection-end-line="532" selection-end-column="22" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
-                <marker date="1514055203283" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
-                <marker date="1514055203283" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
-                <marker date="1514055203283" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
-                <marker date="1514055203283" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
-                <marker date="1514055203283" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
-                <marker date="1514055203283" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
-                <marker date="1514055203283" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
-                <marker date="1514055203283" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
-                <marker date="1514055203283" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
-                <marker date="1514055203283" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
-                <marker date="1514055203283" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
-                <marker date="1514055203283" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
-                <marker date="1514055203283" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
-                <marker date="1514055203283" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
-                <marker date="1514055203283" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
-                <marker date="1514055203283" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+                <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+                <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+                <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+                <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+                <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+                <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+                <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+                <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+                <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+                <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+                <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+                <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+                <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+                <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+                <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+                <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -139,9 +133,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>connect</find>
-      <find>db.setDatabaseName</find>
-      <find>tableWidget</find>
       <find>QSqlQuery()</find>
       <find>firstEleven</find>
       <find>setData</find>
@@ -159,7 +150,6 @@
       <find>home</find>
       <find>rate</find>
       <find>home_lineup</find>
-      <find>limit_update_time</find>
       <find>enterHomeLineUp</find>
       <find>pushButton1</find>
       <find>pushButton2</find>
@@ -167,8 +157,12 @@
       <find>self.label2</find>
       <find>self.label4</find>
       <find>pdb.s</find>
-      <find>new_player_info</find>
       <find>pdb</find>
+      <find>limit_update_time</find>
+      <find>match_list</find>
+      <find>print_form_2_info</find>
+      <find>new_player_info</find>
+      <find>new_player_table</find>
     </findStrings>
     <replaceStrings>
       <replace>player_2</replace>
@@ -197,6 +191,9 @@
       <replace>competition_total</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -204,8 +201,8 @@
         <option value="$PROJECT_DIR$/teams_rating/settings.py" />
         <option value="$PROJECT_DIR$/teams_rating/database.txt" />
         <option value="$PROJECT_DIR$/teams_rating/pipelines.py" />
-        <option value="$PROJECT_DIR$/teams_rating/spiders/teams_spider.py" />
         <option value="$PROJECT_DIR$/1" />
+        <option value="$PROJECT_DIR$/teams_rating/spiders/teams_spider.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
     </option>
@@ -220,6 +217,7 @@
     <option name="width" value="1366" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -235,7 +233,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -259,6 +256,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -311,14 +309,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14765458" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14925373" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -347,6 +346,32 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18145">
+          <caret line="959" column="57" lean-forward="false" selection-start-line="949" selection-start-column="8" selection-end-line="959" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+            <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+            <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+            <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/teams_rating/spiders/teams_spider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3762">
@@ -425,22 +450,22 @@
           <caret line="980" column="39" lean-forward="true" selection-start-line="980" selection-start-column="39" selection-end-line="980" selection-end-column="39" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <marker date="1514055203283" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
-            <marker date="1514055203283" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
-            <marker date="1514055203283" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+            <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+            <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
           </folding>
         </state>
       </provider>
@@ -475,22 +500,22 @@
           <caret line="946" column="23" lean-forward="false" selection-start-line="946" selection-start-column="23" selection-end-line="946" selection-end-column="23" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <marker date="1514055203283" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
-            <marker date="1514055203283" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
-            <marker date="1514055203283" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+            <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+            <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
           </folding>
         </state>
       </provider>
@@ -573,22 +598,22 @@
           <caret line="980" column="31" lean-forward="false" selection-start-line="980" selection-start-column="31" selection-end-line="980" selection-end-column="31" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <marker date="1514055203283" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
-            <marker date="1514055203283" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
-            <marker date="1514055203283" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+            <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+            <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
           </folding>
         </state>
       </provider>
@@ -695,22 +720,22 @@
           <caret line="56" column="29" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <marker date="1514055203283" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
-            <marker date="1514055203283" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
-            <marker date="1514055203283" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+            <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+            <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
           </folding>
         </state>
       </provider>
@@ -761,22 +786,22 @@
           <caret line="4" column="10" lean-forward="false" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <marker date="1514055203283" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
-            <marker date="1514055203283" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
-            <marker date="1514055203283" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+            <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+            <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
           </folding>
         </state>
       </provider>
@@ -842,16 +867,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/teams_rating/spiders/teams_spider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1669">
-          <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="202" selection-end-column="0" />
-          <folding>
-            <element signature="e#36#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/1172709500/PyQt5/QtWidgets/QComboBox.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -868,28 +883,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/teams_rating/spiders/teams_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#36#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1060">
-          <caret line="959" column="57" lean-forward="false" selection-start-line="949" selection-start-column="8" selection-end-line="959" selection-end-column="57" />
+        <state relative-caret-position="425">
+          <caret line="532" column="22" lean-forward="true" selection-start-line="532" selection-start-column="22" selection-end-line="532" selection-end-column="22" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
-            <marker date="1514055203283" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
-            <marker date="1514055203283" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
-            <marker date="1514055203283" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
-            <marker date="1514055203283" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
-            <marker date="1514055203283" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
-            <marker date="1514055203283" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
-            <marker date="1514055203283" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
-            <marker date="1514055203283" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="13903:13959" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="14479:14625" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="15188:15210" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="16888:16944" ph="SELECT team_... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="17464:17610" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="18173:18195" ph="SELECT * FRO... team_all" />
+            <marker date="1514299203254" expanded="true" signature="20369:20394" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="21030:21052" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="23127:23152" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="23788:23810" ph="DROP TABLE p... " />
+            <marker date="1514299203254" expanded="true" signature="27767:27787" ph="SELECT * FRO... match_missing_value" />
+            <marker date="1514299203254" expanded="true" signature="29957:30496" ph="CREATE TABLE... IF" />
+            <marker date="1514299203254" expanded="true" signature="32780:32794" ph="SELECT * FRO... " />
+            <marker date="1514299203254" expanded="true" signature="32780:32805" ph="SELECT * FRO... missing_value" />
+            <marker date="1514299203254" expanded="true" signature="32780:32819" ph="SELECT * FRO... player_info" />
+            <marker date="1514299203254" expanded="true" signature="37405:37430" ph="SELECT * FRO... player_info" />
           </folding>
         </state>
       </provider>
